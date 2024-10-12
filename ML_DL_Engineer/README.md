@@ -34,7 +34,7 @@ Date Limite : 07 octobre 2024
 
 Instruction 3 : 12/10/2024
 
-Je vous invite à  tester des modèles non supervisés en Machine Learning pour évaluer s'ils sont capables de réaliser un clustering sur une image pour créer un bon plan d'occupation. Afin d'éviter tout conflit de bibliothèques, je vous invite à installer les versions suivantes des bibliothèques :
+En attendant que les images soient labélisées, je vous invite à  tester des modèles non supervisés en Machine Learning pour évaluer s'ils sont capables de réaliser un clustering sur une image pour créer un bon plan d'occupation. Afin d'éviter tout conflit de bibliothèques, je vous invite à installer les versions suivantes des bibliothèques :
 
 - TensorFlow version : **2.17.0**
 - Rasterio version : **1.4.1**
