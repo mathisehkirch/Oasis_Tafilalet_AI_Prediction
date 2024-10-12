@@ -32,10 +32,6 @@ Date Limite : 07 octobre 2024
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Voici l'instruction mise à jour avec l'ajout concernant l'utilisation de **Rasterio** pour importer et manipuler les images sous forme de tenseurs :
-
----
-
 Instruction 3 : 12/10/2024
 
 Je vous invite à  tester des modèles non supervisés en Machine Learning pour évaluer s'ils sont capables de réaliser un clustering sur une image pour créer un bon plan d'occupation. Afin d'éviter tout conflit de bibliothèques, je vous invite à installer les versions suivantes des bibliothèques :
