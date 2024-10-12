@@ -26,3 +26,17 @@ Comment ces limitations pourraient-elles affecter le projet ?
 Écrivez un code pour afficher les images du jeu de données. Par exemple, vous pouvez utiliser le framework Rasterio de Python. 
 
 Date Limite : 07 octobre 2024
+----------------------------------------------------------------------------------------------------------------------------------
+
+Instruction 2 : 12/10/2024
+
+Les data engineers doivent en urgence préparer le dataset d'ici ce lundi afin de pouvoir démarrer la phase de labélisation. Vous devez découper, à l’aide de QGIS, une partie du dataset correspondant à environ 10 années d'images. Les coordonnées à utiliser pour le découpage sont les suivantes :
+
+301545.0000, 403215.0000, 3445395.0000, 3547065.0000 [EPSG:32630].
+
+Pour effectuer le découpage de plusieurs fichiers en même temps selon le même cadre, vous pouvez vous inspirer de ce tutoriel :
+https://www.youtube.com/watch?v=ffdgVGA_mk4.
+
+Veuillez vous assurer que ce découpage est correctement réalisé avant de transmettre le dataset à l'équipe de labélisation.
+
+Date Limite : 14 octobre 2024
