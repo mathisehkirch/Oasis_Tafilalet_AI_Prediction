@@ -26,6 +26,9 @@ Comment ces limitations pourraient-elles affecter le projet ?
 Écrivez un code pour afficher les images du jeu de données. Par exemple, vous pouvez utiliser le framework Rasterio de Python. 
 
 Date Limite : 07 octobre 2024
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Instruction 2 : 12/10/2024
