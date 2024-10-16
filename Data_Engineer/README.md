@@ -54,6 +54,6 @@ Date Limite : 14 octobre 2024
 Instruction 3 : 16/10/2024
 
 
-Vous êtes prié de terminer au plus vite la labelisation des images. Cependant, faites attention à être cohérent dans votre labellisation et vérifiez systématiquement vos résultats après chaque labélisation. Une labelisation précise est essentielle pour garantir la qualité des modèles que vous développerez.
+Vous êtes prié de terminer au plus vite la labelisation des images. Cependant, faites attention à être cohérent dans votre labellisation et vérifiez systématiquement vos résultats après chaque labélisation. Une labelisation précise est essentielle pour garantir la qualité des modèles que vous développerez. N'oubliez pas de documenter ce que vous faites.
 
 Date Limite : 23 octobre 2024
