@@ -81,9 +81,9 @@ Date Limite : 14 octobre 2024
 
 Instruction 3 : 16/10/2024
 
-Vous êtes invité(e) à créer un premier script de comparaison entre les trois modèles entraînés que vous avez choisis. Pour ce faire, vous devrez utiliser une petite partie des images labellisées fournies par votre équipe data. Assurez-vous d'obtenir au moins deux images d'entrée, accompagnées de leurs étiquettes correspondantes (sortie - ground truth).
+Vous êtes invité(e) à créer un premier script de comparaison entre les trois modèles entraînés que vous avez choisis. Pour ce faire, vous devrez utiliser une petite partie des images labellisées fournies par votre équipe data. Assurez-vous d'obtenir au moins deux images d'entrée, accompagnées de leurs étiquettes correspondantes (sortie - ground truth) sous le format GeoJSON.
 
-L'objectif de ce script est de faire tourner les algorithmes. Les résultats ne sont pas cruciaux pour l'instant ; il est simplement nécessaire de s'assurer que le code fonctionne correctement avec au moins deux images : une pour l'entraînement et l'autre pour la validation.
+L'objectif de ce script est de faire tourner les algorithmes. Les résultats ne sont pas cruciaux pour l'instant ; il est simplement nécessaire de s'assurer que le code fonctionne correctement avec au moins deux images : une pour l'entraînement et l'autre pour la validation. Vous manipulerez les étiquettes à l'aide de la bibliothèque Python GeoPandas.
 
 N'hésitez pas à demander régulièrement à l'équipe data de vous fournir des images supplémentaires pour améliorer les performances de vos modèles.
 
