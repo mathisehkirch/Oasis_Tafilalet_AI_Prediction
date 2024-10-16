@@ -32,7 +32,7 @@ Date Limite : 07 octobre 2024
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Instruction 3 : 12/10/2024
+Instruction 2 : 12/10/2024
 
 En attendant que les images soient labélisées, je vous invite à  tester des modèles non supervisés en Machine Learning pour évaluer s'ils sont capables de réaliser un clustering sur une image pour créer un bon plan d'occupation. Afin d'éviter tout conflit de bibliothèques, je vous invite à installer les versions suivantes des bibliothèques :
 
@@ -73,4 +73,19 @@ conda install keras=3.4.1
 ```
 
 Date Limite : 14 octobre 2024
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+Instruction 3 : 16/10/2024
+
+Vous êtes invité(e) à créer un premier script de comparaison entre les trois modèles entraînés que vous avez choisis. Pour ce faire, vous devrez utiliser une petite partie des images labellisées fournies par votre équipe data. Assurez-vous d'obtenir au moins deux images d'entrée, accompagnées de leurs étiquettes correspondantes (sortie - ground truth).
+
+L'objectif de ce script est de faire tourner les algorithmes. Les résultats ne sont pas cruciaux pour l'instant ; il est simplement nécessaire de s'assurer que le code fonctionne correctement avec au moins deux images : une pour l'entraînement et l'autre pour la validation.
+
+N'hésitez pas à demander régulièrement à l'équipe data de vous fournir des images supplémentaires pour améliorer les performances de vos modèles.
+
+Date limite : 21 octobre 2024
 
