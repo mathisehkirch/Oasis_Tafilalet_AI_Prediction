@@ -48,3 +48,12 @@ Les classes retenues sont : oasis (végétation), eau, erg (Sahara sableux), reg
 Veuillez vous assurer que ce découpage et la création des masques sont correctement réalisés avant de transmettre le dataset à l'équipe de labélisation.
 
 Date Limite : 14 octobre 2024
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Instruction 3 : 16/10/2024
+
+
+Vous êtes prié de terminer au plus vite la labelisation des images. Cependant, faites attention à être cohérent dans votre labellisation et vérifiez systématiquement vos résultats après chaque labélisation. Une labelisation précise est essentielle pour garantir la qualité des modèles que vous développerez.
+
+Date Limite : 23 octobre 2024
